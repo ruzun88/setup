@@ -12,12 +12,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 자바
-(설치 링크)[https://adoptium.net/download/]
+https://adoptium.net/download/
 
 # 환경변수
 Cmd에서
-setx path "%path%;C:₩factory₩jdk-11.0.17+8₩bin;"
+setx path "%path%;C:\factory\jdk-11.0.17+8₩bin;"
 
 # sts
-(설치 링크)[https://spring.io/tools]
+https://spring.io/tools
 
+# 롬복
+https://projectlombok.org/downloads/lombok.jar   
+   
+java -jar lombok.jar
+
+# Maven
+https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip   
+   
+setx path "%path%;C:\factory\apache-maven-3.8.6;"
