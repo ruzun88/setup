@@ -16,7 +16,7 @@ https://adoptium.net/download/
 
 # 환경변수
 Cmd에서
-setx path "%path%;C:\factory\jdk-11.0.17+8₩bin;"
+setx path "%path%;C:\factory\jdk-11.0.17+8\bin;"
 
 # sts
 https://spring.io/tools
