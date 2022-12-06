@@ -11,6 +11,14 @@ ruzun88/ruzun88 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# gitpod
+> 깃파드를 사용하면, 아래의 다른 처리들은 필요 없음   
+
+- https://chrome.google.com/webstore/category/extensions?hl=ko& 에서 gitpod 검색 및 Extension 설치
+- github repository로 가서 gitpod 클릭
+
+
+
 # cmd
 mkdir c:\factory
 
